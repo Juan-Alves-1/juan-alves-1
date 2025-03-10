@@ -1,9 +1,9 @@
-### Hey, I'm Juan Alves 😃 
+### Hey, I'm Juan Alves  
 
 #### About me:
 - 🪴 Transitioned from SEO to **backend development**, blending analytical skills with software engineering.
 - ⚡ **Go** has been my bread and butter, but I also have experience with Python and JavaScript.
-- 🖥️ Currently diving into **C for memory management**, sharpening my low-level understanding.
+- ©️ Currently diving into **C for memory management**, sharpening my low-level understanding.
 - ☁️ Skilled in **containerisation and cloud computing**, with hands-on experience deploying applications.
 
 #### Curiosities:
